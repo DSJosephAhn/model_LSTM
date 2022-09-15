@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+
+jupyter
+ipykernel 
+
+tensorflow
+tensorflow-gpu
